@@ -17,7 +17,7 @@ public class Ejercicio04Application {
 		LaptopRepository repository = context.getBean(LaptopRepository.class);
 
 		//creamos laptop
-		Laptop laptop1 = new Laptop(null,"Asus","F555L","15 pulgadas","500GB","4GB");
+		Laptop laptop1 = new Laptop(null,"Asus","F555LA","15 pulgadas","500GB","4GB");
 		Laptop laptop2 = new Laptop(null,"Huawei","MateBookD","15 pulgadas","1TB","8GB");
 
 		//salvamos los laptops

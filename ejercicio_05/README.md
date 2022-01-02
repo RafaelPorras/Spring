@@ -8,6 +8,8 @@
     3.Crear un perfil para dev y otro para test con una propiedad nueva que cargaremos en el controlador
 
 
-#Solucion
+#EJERCICIO 11 (Sesion 11)
+    Desplegar el API REST de Laptos en Heroku y verificar el funcionamiento desde Postman
 
-1.Iremos a pom.xml
+#EJERCICIO 11 (Sesion 12)
+Añadir Spring Security sobre el proyecto API REST de Laptops y Cofigurar dos usuarios en memoria utilizando una clase WebSecurityConfig
